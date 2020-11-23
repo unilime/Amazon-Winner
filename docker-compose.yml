@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+    php-cli-app:
+        build:
+            context: ./
+        tty: true
+        container_name: ${PROJECT_NAME}-php-cli-app
+        volumes:
+            - ./:/var/opt/marakasdesign
