@@ -1,5 +1,3 @@
-# MARAKAS_DESIGN TEST PROJECT
-
 ## Requirements
 * Docker (Docker Compose)
 * GIT
